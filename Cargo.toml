@@ -1,6 +1,6 @@
 [package]
 name = "my_guessing_game"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["heropoo <aiyouyou1000@163.com>"]
 description = "The guessing game from the Rust book"
