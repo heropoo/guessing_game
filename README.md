@@ -1,6 +1,6 @@
 # guessing_game
 
-<div align="center">
+<div align="">
   
   <a href="https://crates.io/crates/my_guessing_game" rel="nofollow noopener noreferrer">
     <img src="https://img.shields.io/crates/v/my_guessing_game.svg?style=flat-square" alt="Crates.io version">
